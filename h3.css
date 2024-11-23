@@ -1,0 +1,28 @@
+h3{
+    color: greenyellow;
+}
+.h3classe{  
+ color: violet;
+}
+#h3id{
+    background-color: rgba(89, 0, 255, 0.61);
+    color: aqua;
+}
+.h3mol{
+    background-color: rgba(0, 0, 0, 0.575);
+    color: brown;
+}
+ header{
+   background-color: rgb(4,255,4);
+ }
+ footer{
+    color: rgb(4, 255, 4);
+ }
+ section{
+    background-color: aqua;
+    color: rgb(9, 255, 0);
+ }
+ p{
+    background-color: black;
+    color: red;
+ }
